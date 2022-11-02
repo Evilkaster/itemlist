@@ -1,4 +1,40 @@
-﻿[
+[
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitCore"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "HelloWorld"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitRaids"
+    },
+    "description": null,
+    "name": "joinraid",
+    "usage": "!joinraid",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "JoinRaid"
+  },
   {
     "data": {
       "isShortcut": false,
@@ -13,8 +49,9 @@
     "description": "Updates the current list of active viewers.",
     "name": "Refresh viewers",
     "usage": "!refreshviewers",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "RefreshViewers"
   },
   {
     "data": {
@@ -30,8 +67,9 @@
     "description": "Awards all active viewers coins.",
     "name": "Karma round",
     "usage": "!karmaround",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "KarmaRound"
   },
   {
     "data": {
@@ -47,8 +85,9 @@
     "description": "Gives eveyrone coins.",
     "name": "Give all coins",
     "usage": "!giveallcoins <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "GiveAllCoins"
   },
   {
     "data": {
@@ -64,8 +103,9 @@
     "description": "Gives a viewer coins.",
     "name": "Give coins",
     "usage": "!givecoins <viewer> <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "GiveCoins"
   },
   {
     "data": {
@@ -81,8 +121,9 @@
     "description": "Shows the balance of a given user.",
     "name": "Check user",
     "usage": "!checkuser <viewer>",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "CheckUser"
   },
   {
     "data": {
@@ -98,8 +139,9 @@
     "description": "Sets the current karma for a given user.",
     "name": "Set karma",
     "usage": "!setkarma <viewer> <karma>",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "SetKarma"
   },
   {
     "data": {
@@ -115,8 +157,9 @@
     "description": "Toggles coin generation.",
     "name": "Toggle coins",
     "usage": "!togglecoins",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "ToggleCoins"
   },
   {
     "data": {
@@ -132,8 +175,9 @@
     "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
     "name": "Check balance",
     "usage": "!bal",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "CheckBalance"
   },
   {
     "data": {
@@ -149,8 +193,9 @@
     "description": null,
     "name": "Karma explanation",
     "usage": "!whatiskarma",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "WhatIsKarma"
   },
   {
     "data": {
@@ -166,8 +211,27 @@
     "description": null,
     "name": "Purchase list",
     "usage": "!purchaselist",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "PurchaseList"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "GiftCoins"
   },
   {
     "data": {
@@ -183,8 +247,9 @@
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "JoinQueue"
   },
   {
     "data": {
@@ -200,8 +265,9 @@
     "description": null,
     "name": "Mod info",
     "usage": "!modinfo",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "ModInfo"
   },
   {
     "data": {
@@ -217,8 +283,9 @@
     "description": null,
     "name": "Buy",
     "usage": "!buy",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Buy"
   },
   {
     "data": {
@@ -234,8 +301,9 @@
     "description": "Lets you wager coins to level up a skill of your choosing.",
     "name": "Level skill",
     "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "LevelSkillShortcut"
   },
   {
     "data": {
@@ -251,8 +319,9 @@
     "description": null,
     "name": "Mod settings",
     "usage": "!modsettings",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "ModSettings"
   },
   {
     "data": {
@@ -268,8 +337,9 @@
     "description": null,
     "name": "Instructions",
     "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Instructions"
   },
   {
     "data": {
@@ -285,8 +355,9 @@
     "description": null,
     "name": "All commands",
     "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "AvailableCommands"
   },
   {
     "data": {
@@ -302,8 +373,9 @@
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
     "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "InstalledMods"
   },
   {
     "data": {
@@ -319,8 +391,9 @@
     "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
     "name": "Set favorite color",
     "usage": "!setfavoritecolor <color>",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "SetFavoriteColor"
   },
   {
     "data": {
@@ -336,8 +409,27 @@
     "description": "Sets the user's pawn's favourite colour to the colour specified. The colour can be a name or a hex code.",
     "name": "Set favourite colour",
     "usage": "!setfavouritecolour <color>",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "SetFavouriteColour"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Dye apparel",
+    "usage": "!dye",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "DyeApparel"
   },
   {
     "data": {
@@ -353,8 +445,9 @@
     "description": null,
     "name": "Revive all",
     "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "ReviveAllShortcut"
   },
   {
     "data": {
@@ -370,8 +463,9 @@
     "description": null,
     "name": "Revive me",
     "usage": "!reviveme",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "ReviveMeShortcut"
   },
   {
     "data": {
@@ -387,8 +481,9 @@
     "description": null,
     "name": "Heal me",
     "usage": "!healme",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "HealMeShortcut"
   },
   {
     "data": {
@@ -404,8 +499,9 @@
     "description": null,
     "name": "Healall",
     "usage": "!healall",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "HealAllShortcut"
   },
   {
     "data": {
@@ -421,8 +517,9 @@
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "PassionShuffleShortcut"
   },
   {
     "data": {
@@ -438,8 +535,9 @@
     "description": "Purchases the part specified and queues it for surgery on your pawn.",
     "name": "Surgery",
     "usage": "!surgery <item> <quantity/bodypart>",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "SurgeryShortcut"
   },
   {
     "data": {
@@ -455,8 +553,9 @@
     "description": null,
     "name": "Add trait",
     "usage": "!trait",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "TraitShortcut"
   },
   {
     "data": {
@@ -472,8 +571,9 @@
     "description": null,
     "name": "Remove trait",
     "usage": "!removetrait",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "RemoveTraitShortcut"
   },
   {
     "data": {
@@ -489,8 +589,9 @@
     "description": null,
     "name": "Revive any pawn",
     "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "ReviveAnyPawnShortcut"
   },
   {
     "data": {
@@ -506,8 +607,9 @@
     "description": null,
     "name": "Heal any pawn",
     "usage": "!healanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "HealAnyPawnShortcut"
   },
   {
     "data": {
@@ -523,8 +625,9 @@
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "ReplaceTraitShortcut"
   },
   {
     "data": {
@@ -540,8 +643,9 @@
     "description": "It's like buy item, but it gets added to your inventory if possible.",
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "BackpackShortcut"
   },
   {
     "data": {
@@ -557,8 +661,9 @@
     "description": "Downgrades a skill's passion... sometimes.",
     "name": "Remove passion",
     "usage": "!removepassion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "RemovePassionShortcut"
   },
   {
     "data": {
@@ -574,8 +679,9 @@
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
     "usage": "!passion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "AddPassionShortcut"
   },
   {
     "data": {
@@ -591,8 +697,9 @@
     "description": null,
     "name": "Full heal",
     "usage": "!fullheal",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "FullHealShortcut"
   },
   {
     "data": {
@@ -608,8 +715,9 @@
     "description": null,
     "name": "Rescue me",
     "usage": "!rescueme",
-    "userLevel": "Anyone",
-    "shortcut": true
+    "userLevel": 0,
+    "shortcut": true,
+    "defName": "RescueMeShortcut"
   },
   {
     "data": {
@@ -625,8 +733,9 @@
     "description": null,
     "name": "Viewer kill count",
     "usage": "!mypawnkills",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnKills"
   },
   {
     "data": {
@@ -642,8 +751,9 @@
     "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
     "usage": "!mypawnstats [stat1] [stat2]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnStats"
   },
   {
     "data": {
@@ -659,8 +769,9 @@
     "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
     "usage": "!mypawnhealth [capacity]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnHealth"
   },
   {
     "data": {
@@ -676,8 +787,9 @@
     "description": null,
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnNeeds"
   },
   {
     "data": {
@@ -693,8 +805,9 @@
     "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
     "usage": "!mypawngear",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnGear"
   },
   {
     "data": {
@@ -710,8 +823,9 @@
     "description": null,
     "name": "Viewer body",
     "usage": "!mypawnbody",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnBody"
   },
   {
     "data": {
@@ -727,8 +841,9 @@
     "description": "Shows your pawn's work priorities.",
     "name": "Viewer work",
     "usage": "!mypawnwork [worktype=priority] [...]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnWork"
   },
   {
     "data": {
@@ -744,8 +859,9 @@
     "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnStory"
   },
   {
     "data": {
@@ -761,8 +877,9 @@
     "description": null,
     "name": "Viewer skills",
     "usage": "!mypawnskills",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "MyPawnSkills"
   },
   {
     "data": {
@@ -778,8 +895,9 @@
     "description": null,
     "name": "Fix viewer pawn",
     "usage": "!fixmypawn",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "FixMyPawn"
   },
   {
     "data": {
@@ -795,8 +913,9 @@
     "description": null,
     "name": "Fix all pawns",
     "usage": "!fixallpawns",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "FixAllPawns"
   },
   {
     "data": {
@@ -812,8 +931,9 @@
     "description": "Makes your pawn leave the colony.",
     "name": "Abandon pawn",
     "usage": "!leave",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "AbandonPawn"
   },
   {
     "data": {
@@ -829,8 +949,9 @@
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "PawnRelations"
   },
   {
     "data": {
@@ -846,8 +967,9 @@
     "description": null,
     "name": "Factions",
     "usage": "!factions",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Factions"
   },
   {
     "data": {
@@ -863,8 +985,9 @@
     "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
     "name": "Research",
     "usage": "!research [project/item]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Research"
   },
   {
     "data": {
@@ -880,8 +1003,9 @@
     "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
     "name": "Lookup",
     "usage": "!lookup <item/category> [query]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Lookup"
   },
   {
     "data": {
@@ -897,8 +1021,9 @@
     "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
     "name": "Price check",
     "usage": "!price <item/category> [query]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "PriceCheck"
   },
   {
     "data": {
@@ -914,8 +1039,9 @@
     "description": null,
     "name": "Unstick",
     "usage": "!unstick",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "UnstickAll"
   },
   {
     "data": {
@@ -931,8 +1057,9 @@
     "description": null,
     "name": "Toggle store",
     "usage": "!togglestore",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "userLevel": 3,
+    "shortcut": false,
+    "defName": "ToggleStore"
   },
   {
     "data": {
@@ -945,11 +1072,66 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
+    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
     "name": "Insult",
     "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Insult"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
+    "name": "Chat",
+    "usage": "!chat [target]",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Chat"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
+    "name": "Flirt",
+    "usage": "!flirt [target]",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Flirt"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
+    "name": "Deep chat",
+    "usage": "!deepchat [target]",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "DeepChat"
   },
   {
     "data": {
@@ -965,8 +1147,9 @@
     "description": null,
     "name": "Colony wealth",
     "usage": "!wealth",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Wealth"
   },
   {
     "data": {
@@ -982,8 +1165,9 @@
     "description": null,
     "name": "Colonist count",
     "usage": "!colonists",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "ColonistCount"
   },
   {
     "data": {
@@ -999,8 +1183,9 @@
     "description": "Provides some information about supported things. Supported categories are: 'weapons'",
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "RimDatabase"
   },
   {
     "data": {
@@ -1016,8 +1201,9 @@
     "description": null,
     "name": "Unstick me",
     "usage": "!imstuck",
-    "userLevel": "Anyone",
-    "shortcut": false
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "UnstickMe"
   },
   {
     "data": {
@@ -1028,12 +1214,31 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
+      "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false
+    "name": "Marriage",
+    "usage": "!marry",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Marriage"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Divorce",
+    "usage": "!divorce",
+    "userLevel": 0,
+    "shortcut": false,
+    "defName": "Divorce"
   }
 ]
