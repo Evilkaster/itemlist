@@ -5706,6 +5706,276 @@
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
+	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "archotechnagatail",
+		"price": 9333,
+		"category": "Archotech",
+		"defname": "ArchotechNagaTail"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathmat",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "BathMat"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "bionicbladder",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "BionicBladder"
+	},
+	{
+		"abr": "bionicnagatail",
+		"price": 2692,
+		"category": "Bionic",
+		"defname": "BionicNagaTail"
+	},
+	{
+		"abr": "biosolids",
+		"price": 0,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "electricsaunaheater",
+		"price": 725,
+		"category": "Hygiene",
+		"defname": "DBHSaunaHeaterElec"
+	},
+	{
+		"abr": "finemeal(meat)",
+		"price": 33,
+		"category": "Meals",
+		"defname": "MealFine_Naga"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "flaktailarmor",
+		"price": 375,
+		"category": "Armor",
+		"defname": "Apparel_FlakTailArmor"
+	},
+	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "fueledsaunaheater",
+		"price": 675,
+		"category": "Hygiene",
+		"defname": "DBHSaunaHeaterLog"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "hygieneenhancer",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "HygieneEnhancer"
+	},
+	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "naga",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Naga"
+	},
+	{
+		"abr": "nagamachiningtable",
+		"price": 215,
+		"category": "Production",
+		"defname": "TableNagaMachining"
+	},
+	{
+		"abr": "nagameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Naga"
+	},
+	{
+		"abr": "nagashieldbelt",
+		"price": 492,
+		"category": "Utility",
+		"defname": "Apparel_NagaShieldBelt"
+	},
+	{
+		"abr": "plasmajavelin",
+		"price": 1217,
+		"category": "Ranged weapons",
+		"defname": "Gun_NagaSniper"
+	},
+	{
+		"abr": "plasmarevolver",
+		"price": 309,
+		"category": "Ranged weapons",
+		"defname": "Gun_NagaRevolver"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 1092,
+		"category": "Ranged weapons",
+		"defname": "Gun_NagaRifle"
+	},
+	{
+		"abr": "plasmashotgun",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_NagaShotgun"
+	},
+	{
+		"abr": "plasmasmg",
+		"price": 683,
+		"category": "Ranged weapons",
+		"defname": "Gun_NagaSMG"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "saunaseating",
+		"price": 9,
+		"category": "Furniture",
+		"defname": "DBHSaunaSeating"
+	},
+	{
+		"abr": "shieldemitterbelt",
+		"price": 207,
+		"category": "Utility",
+		"defname": "Apparel_NagaShieldEmitter"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	}
 	],
-	"total": 1008
+	"total": 1053
 }

@@ -12,6 +12,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Naga",
+    "steamId": "1539971494",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Hob Took",
     "name": "Trade UI Revised",
     "steamId": null,
@@ -22,6 +28,12 @@
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -310,5 +322,11 @@
     "name": "FemaleBB BodyType for Human",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
   }
 ]
