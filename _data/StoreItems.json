@@ -5976,6 +5976,96 @@
 		"category": "Hygiene",
 		"defname": "ShowerStuff"
 	},
+	{
+		"abr": "abasicshirt",
+		"price": 211,
+		"category": "Arachne apparel",
+		"defname": "Arachne_Shirt"
+	},
+	{
+		"abr": "arachne",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Arachne"
+	},
+	{
+		"abr": "arachneassassinarmor",
+		"price": 2808,
+		"category": "Arachne power armor",
+		"defname": "Arachne_Power_Armor"
+	},
+	{
+		"abr": "arachneassassinhelmet",
+		"price": 1008,
+		"category": "Headgear",
+		"defname": "Arachne_Power_Helmet"
+	},
+	{
+		"abr": "arachnebattlearmor",
+		"price": 783,
+		"category": "Arachne battle armor",
+		"defname": "Arachne_Armor"
+	},
+	{
+		"abr": "arachnebattlehelmet",
+		"price": 215,
+		"category": "Headgear",
+		"defname": "Arachne_Armor_Helmet"
+	},
+	{
+		"abr": "arachneleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Arachne"
+	},
+	{
+		"abr": "arachnemeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Arachne"
+	},
+	{
+		"abr": "arachnescoutarmor",
+		"price": 2808,
+		"category": "Arachne power armor",
+		"defname": "Arachne_Scout_Armor"
+	},
+	{
+		"abr": "arachnescouthelmet",
+		"price": 1008,
+		"category": "Headgear",
+		"defname": "Arachne_Scout_Helmet"
+	},
+	{
+		"abr": "arachnescythe",
+		"price": 525,
+		"category": "Melee weapons",
+		"defname": "Arachne_Scythe"
+	},
+	{
+		"abr": "arachnesmg",
+		"price": 2667,
+		"category": "Ranged weapons",
+		"defname": "ArachnePninety"
+	},
+	{
+		"abr": "arachnesword",
+		"price": 475,
+		"category": "Melee weapons",
+		"defname": "Arachne_Sword"
+	},
+	{
+		"abr": "arachnevalkyriearmor",
+		"price": 783,
+		"category": "Arachne battle armor",
+		"defname": "Arachne_Valkyrie"
+	},
+	{
+		"abr": "arachnevalkyriehelmet",
+		"price": 215,
+		"category": "Headgear",
+		"defname": "Arachne_Valkyrie_Helmet"
+	},
 	],
-	"total": 1053
+	"total": 1068
 }
