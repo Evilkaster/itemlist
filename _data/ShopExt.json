@@ -3651,41 +3651,6 @@
       "data": {
         "customName": false,
         "stats": [
-          "+80.00 Mass",
-          "+33% Flammability",
-          "+$1750 Market value",
-          "+5.00 Move speed",
-          "+75 Leather amount",
-          "+2 Honor value",
-          "+5.0 Shooting accuracy",
-          "+120% Psychic sensitivity",
-          "+50% Toxic resistance",
-          "+21.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+64% Pain shock threshold",
-          "+80% Aiming time",
-          "+80.00% Tame animal chance",
-          "+80.00% Train animal chance",
-          "+80% Animal gather yield",
-          "+80% Plant work speed",
-          "+110% Butchery efficiency",
-          "+150% Mechanoid shredding efficiency",
-          "+9.60 Neural heat recovery rate"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
-      "defName": "Naga",
-      "enabled": true,
-      "name": "naga",
-      "price": 3300
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+55.00 Mass",
           "+70% Flammability",
           "+$1900 Market value",
