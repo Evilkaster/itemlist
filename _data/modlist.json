@@ -6,10 +6,40 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "10.0.1"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.4.3509.1"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Animal Equipment",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Naga",
+    "steamId": "1539971494",
+    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -24,16 +54,16 @@
     "version": "3.5.2.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Naga",
-    "steamId": "1539971494",
-    "version": "1.0.0.0"
+    "author": "Kikohi",
+    "name": "Forsakens",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hob Took",
@@ -82,12 +112,6 @@
     "name": "Arachne Race (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "OdysseyLotus",
@@ -183,7 +207,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.5"
+    "version": "1.4.0.6"
   },
   {
     "author": "JangoD'soul",
@@ -201,7 +225,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1103.0"
+    "version": "1.4.1117.0"
   },
   {
     "author": "Fluffy",
@@ -297,7 +321,7 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.2402"
+    "version": "0.6.3.2410"
   },
   {
     "author": "user19990313 and Trinity",
@@ -381,7 +405,7 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.8.0"
+    "version": "0.8.1"
   },
   {
     "author": "ssulunge",
@@ -398,6 +422,12 @@
   {
     "author": "ssulunge",
     "name": "FemaleBB BodyType for Human",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirKota",
+    "name": "InventoryTab",
     "steamId": null,
     "version": null
   }

@@ -395,17 +395,17 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -417,17 +417,17 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -439,17 +439,17 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -3484,7 +3484,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 2500
     },
     {
       "data": {
@@ -3539,7 +3539,7 @@
       "defName": "Seren",
       "enabled": true,
       "name": "seren",
-      "price": 3333
+      "price": 3000
     },
     {
       "data": {
@@ -3569,7 +3569,7 @@
       "defName": "ALapelli",
       "enabled": true,
       "name": "lapelli",
-      "price": 3333
+      "price": 3000
     },
     {
       "data": {
@@ -3600,42 +3600,7 @@
       "defName": "AFerian",
       "enabled": true,
       "name": "ferian",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+80.00 Mass",
-          "+33% Flammability",
-          "+$1750 Market value",
-          "+5.00 Move speed",
-          "+75 Leather amount",
-          "+2 Honor value",
-          "+5.0 Shooting accuracy",
-          "+120% Psychic sensitivity",
-          "+50% Toxic resistance",
-          "+21.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+64% Pain shock threshold",
-          "+80% Aiming time",
-          "+80.00% Tame animal chance",
-          "+80.00% Train animal chance",
-          "+80% Animal gather yield",
-          "+80% Plant work speed",
-          "+110% Butchery efficiency",
-          "+150% Mechanoid shredding efficiency",
-          "+9.60 Neural heat recovery rate"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
-      "defName": "Naga",
-      "enabled": true,
-      "name": "naga",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -3680,7 +3645,68 @@
       "defName": "Arachne",
       "enabled": true,
       "name": "arachne",
-      "price": 2917
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+80.00 Mass",
+          "+33% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+75 Leather amount",
+          "+2 Honor value",
+          "+5.0 Shooting accuracy",
+          "+120% Psychic sensitivity",
+          "+50% Toxic resistance",
+          "+21.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+64% Pain shock threshold",
+          "+80% Aiming time",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+80% Animal gather yield",
+          "+80% Plant work speed",
+          "+110% Butchery efficiency",
+          "+150% Mechanoid shredding efficiency",
+          "+9.60 Neural heat recovery rate"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
+      "defName": "Naga",
+      "enabled": true,
+      "name": "naga",
+      "price": 3300
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+$1900 Market value",
+          "+5.60 Move speed",
+          "+130% Research speed",
+          "+110% Global work speed",
+          "+110% Global learning factor",
+          "+1.2 Melee dodge chance",
+          "+50 Leather amount",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The legacy of a fallen empire, with a distant link to the humanoid races of earth and beyond. Other than the fact that they began to awaken over the past century, no one knows much else about what they are, where they are from or fundamentals behind their technology, which seems to bridge the gap between science and magic.",
+      "defName": "Alien_Forsaken",
+      "enabled": true,
+      "name": "forsaken",
+      "price": 4000
     }
   ]
 }
