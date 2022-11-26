@@ -12,6 +12,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Naga",
+    "steamId": "1539971494",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -201,7 +213,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.6"
+    "version": "1.4.0.8"
   },
   {
     "author": "JangoD'soul",
@@ -219,7 +231,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1117.0"
+    "version": "1.4.1121.0"
   },
   {
     "author": "Fluffy",
@@ -354,12 +366,6 @@
     "version": "1.0.5.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
-  },
-  {
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
@@ -424,5 +430,11 @@
     "name": "InventoryTab",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   }
 ]

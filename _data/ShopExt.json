@@ -508,7 +508,7 @@
       "addPrice": 2000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when yielding an incendiary weapon.",
+      "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when wielding an incendiary weapon.",
       "stats": [
         "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -682,7 +682,7 @@
       "addPrice": 2000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced with artificial body parts or xenogenetics.",
       "stats": [],
       "conflicts": [
         "bodypurist"
@@ -708,7 +708,7 @@
       "addPrice": 2000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
       "stats": [],
       "conflicts": [
         "bodymodder"
@@ -3672,6 +3672,41 @@
       "enabled": true,
       "name": "forsaken",
       "price": 4000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+80.00 Mass",
+          "+33% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+75 Leather amount",
+          "+2 Honor value",
+          "+5.0 Shooting accuracy",
+          "+120% Psychic sensitivity",
+          "+50% Toxic resistance",
+          "+21.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+64% Pain shock threshold",
+          "+80% Aiming time",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+80% Animal gather yield",
+          "+80% Plant work speed",
+          "+110% Butchery efficiency",
+          "+150% Mechanoid shredding efficiency",
+          "+9.60 Neural heat recovery rate"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
+      "defName": "Naga",
+      "enabled": true,
+      "name": "naga",
+      "price": 3000
     }
   ]
 }
