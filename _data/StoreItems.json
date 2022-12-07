@@ -6737,7 +6737,19 @@
 		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple_Naga"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
 	}
 	],
-	"total": 1123
+	"total": 1125
 }
