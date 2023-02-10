@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 10000,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 30000,
+		"price": 13500,
 		"karmatype": "Doom"
 	},
 	{
@@ -412,7 +412,7 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 50000,
+		"price": 100000,
 		"karmatype": "Good"
 	},
 	{
