@@ -3547,12 +3547,6 @@
 		"defname": "Joy_ModernComputer"
 	},
 	{
-		"abr": "moderndarklamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "Light_ModernDarkLamp"
-	},
-	{
 		"abr": "molotovcocktails",
 		"price": 408,
 		"category": "Grenades",
@@ -5893,96 +5887,6 @@
 		"defname": "ShowerStuff"
 	},
 	{
-		"abr": "abasicshirt",
-		"price": 211,
-		"category": "Arachne apparel",
-		"defname": "Arachne_Shirt"
-	},
-	{
-		"abr": "arachne",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Arachne"
-	},
-	{
-		"abr": "arachneassassinarmor",
-		"price": 2808,
-		"category": "Arachne power armor",
-		"defname": "Arachne_Power_Armor"
-	},
-	{
-		"abr": "arachneassassinhelmet",
-		"price": 1008,
-		"category": "Headgear",
-		"defname": "Arachne_Power_Helmet"
-	},
-	{
-		"abr": "arachnebattlearmor",
-		"price": 783,
-		"category": "Arachne battle armor",
-		"defname": "Arachne_Armor"
-	},
-	{
-		"abr": "arachnebattlehelmet",
-		"price": 215,
-		"category": "Headgear",
-		"defname": "Arachne_Armor_Helmet"
-	},
-	{
-		"abr": "arachneleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_Arachne"
-	},
-	{
-		"abr": "arachnemeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Arachne"
-	},
-	{
-		"abr": "arachnescoutarmor",
-		"price": 2808,
-		"category": "Arachne power armor",
-		"defname": "Arachne_Scout_Armor"
-	},
-	{
-		"abr": "arachnescouthelmet",
-		"price": 1008,
-		"category": "Headgear",
-		"defname": "Arachne_Scout_Helmet"
-	},
-	{
-		"abr": "arachnescythe",
-		"price": 525,
-		"category": "Melee weapons",
-		"defname": "Arachne_Scythe"
-	},
-	{
-		"abr": "arachnesmg",
-		"price": 2667,
-		"category": "Ranged weapons",
-		"defname": "ArachnePninety"
-	},
-	{
-		"abr": "arachnesword",
-		"price": 475,
-		"category": "Melee weapons",
-		"defname": "Arachne_Sword"
-	},
-	{
-		"abr": "arachnevalkyriearmor",
-		"price": 783,
-		"category": "Arachne battle armor",
-		"defname": "Arachne_Valkyrie"
-	},
-	{
-		"abr": "arachnevalkyriehelmet",
-		"price": 215,
-		"category": "Headgear",
-		"defname": "Arachne_Valkyrie_Helmet"
-	},
-	{
 		"abr": "simpleshower",
 		"price": 52,
 		"category": "Hygiene",
@@ -6673,6 +6577,18 @@
 		"defname": "Apparel_FlakTailArmor"
 	},
 	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
 		"abr": "naga",
 		"price": -10,
 		"category": "Animal",
@@ -6733,23 +6649,845 @@
 		"defname": "Apparel_NagaShieldEmitter"
 	},
 	{
+		"abr": "100thammer",
+		"price": 1408,
+		"category": "Melee weapons",
+		"defname": "Kijin_100tHammer"
+	},
+	{
+		"abr": "am-yeonghairband",
+		"price": 170,
+		"category": "Yuran hat",
+		"defname": "YR_AP_CombatCloth_Black_Ribbon"
+	},
+	{
+		"abr": "asari",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "AlienAsari"
+	},
+	{
+		"abr": "asarileather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Asari"
+	},
+	{
+		"abr": "asarimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienAsari"
+	},
+	{
+		"abr": "batarian",
+		"price": 2167,
+		"category": "Animal",
+		"defname": "AlienBatarian"
+	},
+	{
+		"abr": "batarianleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Batarian"
+	},
+	{
+		"abr": "batarianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienBatarian"
+	},
+	{
+		"abr": "battlehelma",
+		"price": 320,
+		"category": "Headgear",
+		"defname": "DR_BattleHelmA"
+	},
+	{
+		"abr": "battlehelmb",
+		"price": 320,
+		"category": "Headgear",
+		"defname": "DR_BattleHelmB"
+	},
+	{
+		"abr": "bigcherry",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "YR_yedoensisBerries_Big"
+	},
+	{
+		"abr": "bionickijinhorn",
+		"price": 1808,
+		"category": "Bionic",
+		"defname": "Kijin_BionicHorn"
+	},
+	{
+		"abr": "brutemeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperBrute"
+	},
+	{
+		"abr": "cannibalmeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperCannibal"
+	},
+	{
+		"abr": "cherry",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "YR_yedoensisBerries"
+	},
+	{
+		"abr": "cornedmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "SaltedMeatKijin"
+	},
+	{
+		"abr": "darkmarinearmor",
+		"price": 3392,
+		"category": "Apparel",
+		"defname": "Apparel_PowerArmorDK"
+	},
+	{
+		"abr": "darkmarinehelmet",
+		"price": 1058,
+		"category": "Headgear",
+		"defname": "Apparel_PowerArmorHelmetDK"
+	},
+	{
+		"abr": "dragonian",
+		"price": 9667,
+		"category": "Animal",
+		"defname": "Dragonian_Race"
+	},
+	{
+		"abr": "dragonianbasicdress",
+		"price": 625,
+		"category": "Apparel",
+		"defname": "DR_BasicDress"
+	},
+	{
+		"abr": "dragonianbasicwear",
+		"price": 592,
+		"category": "Apparel",
+		"defname": "DR_BasicWear"
+	},
+	{
+		"abr": "dragonianbattledress",
+		"price": 1950,
+		"category": "Armor",
+		"defname": "DR_BattleDress"
+	},
+	{
+		"abr": "dragonianmace",
+		"price": 1467,
+		"category": "Melee weapons",
+		"defname": "DR_BattleMace"
+	},
+	{
+		"abr": "dragonianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dragonian_Race"
+	},
+	{
+		"abr": "dragonianmilk",
+		"price": 14,
+		"category": "Animal products",
+		"defname": "DragonianMilk"
+	},
+	{
+		"abr": "dragonianoffshoulderdress",
+		"price": 658,
+		"category": "Apparel",
+		"defname": "DR_OffshoulderDress"
+	},
+	{
+		"abr": "dragonianorb",
+		"price": 2167,
+		"category": "Misc",
+		"defname": "DragonianOrb"
+	},
+	{
+		"abr": "dragonianribbonwear",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "DR_OpenDress"
+	},
+	{
+		"abr": "dragonianseethroughdress",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "DR_Seethrough"
+	},
+	{
+		"abr": "dragoniansideopendress",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "DR_SideDress"
+	},
+	{
+		"abr": "dragonianwool",
+		"price": 18,
+		"category": "Wools",
+		"defname": "WoolDragonian"
+	},
+	{
+		"abr": "drell",
+		"price": 2833,
+		"category": "Animal",
+		"defname": "AlienDrell"
+	},
+	{
+		"abr": "drellleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Drell"
+	},
+	{
+		"abr": "drellmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienDrell"
+	},
+	{
+		"abr": "firewardcharm",
+		"price": 157,
+		"category": "Apparel",
+		"defname": "Kijin_FirewardCharm"
+	},
+	{
+		"abr": "goldbar",
+		"price": 1667,
+		"category": "Raw resources",
+		"defname": "GoldBar"
+	},
+	{
+		"abr": "guardingvest",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Kijin_FlakVest"
+	},
+	{
+		"abr": "hanakoji",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "YR_Hanasake_Koji"
+	},
+	{
+		"abr": "hanar",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AlienHanar"
+	},
+	{
+		"abr": "hanarantigravityunit",
+		"price": 3333,
+		"category": "Natural",
+		"defname": "HanarAntiGravityUnit"
+	},
+	{
+		"abr": "hanarleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Hanar"
+	},
+	{
+		"abr": "hanarmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienHanar"
+	},
+	{
+		"abr": "hanarmesogleafilter",
+		"price": 833,
+		"category": "Natural",
+		"defname": "HanarMesogleaFilter"
+	},
+	{
+		"abr": "hanarsightsensor",
+		"price": 833,
+		"category": "Natural",
+		"defname": "HanarSightSensor"
+	},
+	{
+		"abr": "hanartentacle",
+		"price": 667,
+		"category": "Natural",
+		"defname": "HanarTentacle"
+	},
+	{
+		"abr": "hanasake",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "YR_Hanasake"
+	},
+	{
+		"abr": "huskmeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperHusk"
+	},
+	{
+		"abr": "infernoarmor",
+		"price": 8333,
+		"category": "Apparel",
+		"defname": "Kijin_EpicArmor"
+	},
+	{
+		"abr": "infernoheadgear",
+		"price": 8333,
+		"category": "Headgear",
+		"defname": "Kijin_EpicHelm"
+	},
+	{
+		"abr": "kijin",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Alien_Kijin"
+	},
+	{
+		"abr": "kijinelectricsmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "KijinElectricSmithy"
+	},
+	{
+		"abr": "kijinfan",
+		"price": 650,
+		"category": "Grenades",
+		"defname": "Kijin_Fan"
+	},
+	{
+		"abr": "kijinflamebow",
+		"price": 260,
+		"category": "Ranged weapons",
+		"defname": "Kijin_FlameBow"
+	},
+	{
+		"abr": "kijinmace",
+		"price": 286,
+		"category": "Melee weapons",
+		"defname": "Kijin_Mace"
+	},
+	{
+		"abr": "kijinmeat",
+		"price": 2,
+		"category": "Meat",
+		"defname": "Meat_Alien_Kijin"
+	},
+	{
+		"abr": "kijinparalysisbow",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "Kijin_PosionBow"
+	},
+	{
+		"abr": "kijinpolearm",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "Kijin_Polearm"
+	},
+	{
+		"abr": "kijinshrine",
+		"price": 2350,
+		"category": "Misc",
+		"defname": "NatureShrine_Kijin"
+	},
+	{
+		"abr": "kijinsmithy",
+		"price": 333,
+		"category": "Production",
+		"defname": "KijinSmithy"
+	},
+	{
+		"abr": "kijinsmokebomb",
+		"price": 592,
+		"category": "Grenades",
+		"defname": "Kijin_SmokeBomb"
+	},
+	{
+		"abr": "krogan",
+		"price": 4333,
+		"category": "Animal",
+		"defname": "AlienKrogan"
+	},
+	{
+		"abr": "kroganleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Krogan"
+	},
+	{
+		"abr": "kroganmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienKrogan"
+	},
+	{
+		"abr": "maraudermeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperMarauder"
+	},
+	{
+		"abr": "paralysisdagger",
+		"price": 525,
+		"category": "Melee weapons",
+		"defname": "Kijin_PoisonDagger"
+	},
+	{
+		"abr": "personaflameblade",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "Kijin_FlameSword"
+	},
+	{
+		"abr": "proofofcontract(raccoonshikigami)",
+		"price": 958,
+		"category": "Misc",
+		"defname": "YR_Skigami_BuildingRacoon"
+	},
+	{
+		"abr": "proofofcontract(turtleshikigami)",
+		"price": 958,
+		"category": "Misc",
+		"defname": "YR_Skigami_BuildingTurtle"
+	},
+	{
+		"abr": "quarian",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "AlienQuarian"
+	},
+	{
+		"abr": "quarianleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Quarian"
+	},
+	{
+		"abr": "quarianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienQuarian"
+	},
+	{
+		"abr": "racoonshikigami",
+		"price": 333,
+		"category": "Animals",
+		"defname": "YR_Sikigami_Racoon"
+	},
+	{
+		"abr": "racoonshikigamimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YR_Sikigami_Racoon"
+	},
+	{
+		"abr": "redwood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "YR_Red_wood"
+	},
+	{
+		"abr": "salarian",
+		"price": 3167,
+		"category": "Animal",
+		"defname": "AlienSalarian"
+	},
+	{
+		"abr": "salarianleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Salarian"
+	},
+	{
+		"abr": "salarianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienSalarian"
+	},
+	{
+		"abr": "saltingbarrel",
+		"price": 84,
+		"category": "Production",
+		"defname": "SaltingBarrel"
+	},
+	{
+		"abr": "silverbar",
+		"price": 167,
+		"category": "Raw resources",
+		"defname": "SilverBar"
+	},
+	{
 		"abr": "simplemeal(meat)",
 		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple_Naga"
 	},
 	{
-		"abr": "mendingkit",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "MendingKit"
+		"abr": "smokebombbelt",
+		"price": 124,
+		"category": "Apparel",
+		"defname": "Kijin_SmokeBombBelt"
 	},
 	{
-		"abr": "mendingworkbench",
-		"price": 583,
+		"abr": "spiritwood",
+		"price": 1167,
+		"category": "Artifacts",
+		"defname": "SpiritWood"
+	},
+	{
+		"abr": "sweaterforhanar",
+		"price": 283,
+		"category": "Apparel",
+		"defname": "Apparel_HanarSweater"
+	},
+	{
+		"abr": "turian",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "AlienTurian"
+	},
+	{
+		"abr": "turianleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Turian"
+	},
+	{
+		"abr": "turianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienTurian"
+	},
+	{
+		"abr": "turtleshikigami",
+		"price": 333,
+		"category": "Animals",
+		"defname": "YR_Sikigami_Turtle"
+	},
+	{
+		"abr": "turtleshikigamimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YR_Sikigami_Turtle"
+	},
+	{
+		"abr": "up-armoredenvirosuit",
+		"price": 792,
+		"category": "Armor",
+		"defname": "Apparel_ArmoredExosuit"
+	},
+	{
+		"abr": "vorcha",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AlienVorcha"
+	},
+	{
+		"abr": "vorchaleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Vorcha"
+	},
+	{
+		"abr": "vorchameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienVorcha"
+	},
+	{
+		"abr": "yinyangmark",
+		"price": 19,
+		"category": "Furniture",
+		"defname": "YR_TreeBase"
+	},
+	{
+		"abr": "yinyangmark",
+		"price": 4,
+		"category": "Furniture",
+		"defname": "YR_TreeBase_Plus"
+	},
+	{
+		"abr": "yuran",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "Yuran_Race"
+	},
+	{
+		"abr": "yuranaenghwa",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Red"
+	},
+	{
+		"abr": "yuranam-yeong",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_CombatCloth_Black"
+	},
+	{
+		"abr": "yuranbaeglo",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_White"
+	},
+	{
+		"abr": "yuranbaeglohat",
+		"price": 170,
+		"category": "Yuran hat",
+		"defname": "YR_AP_WhiteHood"
+	},
+	{
+		"abr": "yuranbaeg-un",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_WhiteOutCloth"
+	},
+	{
+		"abr": "yuranbaeg-wol",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_WhiteMoon"
+	},
+	{
+		"abr": "yuranbigcherrybox",
+		"price": 2000,
+		"category": "Manufactured",
+		"defname": "YR_TreeBox"
+	},
+	{
+		"abr": "yuranbigribbon",
+		"price": 170,
+		"category": "Yuran hat",
+		"defname": "YR_AP_Ribbon_BIg"
+	},
+	{
+		"abr": "yuranblackdressbox",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "YR_ClothBox_AddonBlack"
+	},
+	{
+		"abr": "yuranblackdressforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_BlackDress"
+	},
+	{
+		"abr": "yuranblackribbon",
+		"price": 1333,
+		"category": "Yuran hat",
+		"defname": "YR_AP_Flower_AddonC"
+	},
+	{
+		"abr": "yuranblackskirt/capebox",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "YR_ClothBox_AddonBlackSkirt"
+	},
+	{
+		"abr": "yuranbow",
+		"price": 154,
+		"category": "Ranged weapons",
+		"defname": "YR_WP_Bow"
+	},
+	{
+		"abr": "yuranbrewery",
+		"price": 312,
 		"category": "Production",
-		"defname": "TableMending"
-	}
+		"defname": "YR_P_Brewery"
+	},
+	{
+		"abr": "yurancheongpung",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_WhitePuple"
+	},
+	{
+		"abr": "yurancherrydango",
+		"price": 25,
+		"category": "Meals",
+		"defname": "YR_yedoensisBerries_Dango"
+	},
+	{
+		"abr": "yurancorolla",
+		"price": 1333,
+		"category": "Yuran hat",
+		"defname": "YR_AP_Flower_AddonA"
+	},
+	{
+		"abr": "yuranflowerdecoration",
+		"price": 170,
+		"category": "Yuran hat",
+		"defname": "YR_AP_Flower"
+	},
+	{
+		"abr": "yuranfrontoffcapeforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_BlackCape"
+	},
+	{
+		"abr": "yuranfrontoffskirtforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_BlackSkirt"
+	},
+	{
+		"abr": "yuranheug-il",
+		"price": 2167,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_BlackSun"
+	},
+	{
+		"abr": "yuranheug-ilbox",
+		"price": 6667,
+		"category": "Manufactured",
+		"defname": "YR_ClothBox"
+	},
+	{
+		"abr": "yuranheug-ilhat",
+		"price": 2167,
+		"category": "Yuran hat",
+		"defname": "YR_AP_BlackSunHood"
+	},
+	{
+		"abr": "yuranheug-un",
+		"price": 2167,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_BlackSunOutCloth"
+	},
+	{
+		"abr": "yuranhonglyeon",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_CombatCloth_White"
+	},
+	{
+		"abr": "yuranhoodt-shirtforornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_hoodshirt"
+	},
+	{
+		"abr": "yuranjag-yag",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_RedWhite"
+	},
+	{
+		"abr": "yuranjeogmu",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_MiKo"
+	},
+	{
+		"abr": "yuranjeog-wol",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_MiKo_B"
+	},
+	{
+		"abr": "yurankatana",
+		"price": 392,
+		"category": "Melee weapons",
+		"defname": "YR_WP_katana"
+	},
+	{
+		"abr": "yurankunai",
+		"price": 244,
+		"category": "Ranged weapons",
+		"defname": "YR_WP_kunai"
+	},
+	{
+		"abr": "yuranlotuslantern",
+		"price": 75,
+		"category": "Manufactured",
+		"defname": "YR_Random_lantern"
+	},
+	{
+		"abr": "yuranmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Yuran_Race"
+	},
+	{
+		"abr": "yuranmiko",
+		"price": 4667,
+		"category": "Animal",
+		"defname": "Yuran_Race_Miko"
+	},
+	{
+		"abr": "yuranmiraclepill",
+		"price": 4333,
+		"category": "Manufactured",
+		"defname": "YR_PsychicAmplifier_Evol"
+	},
+	{
+		"abr": "yuranmonokatana",
+		"price": 1942,
+		"category": "Melee weapons",
+		"defname": "YR_WP_monokatana"
+	},
+	{
+		"abr": "yuranmyeong-wol",
+		"price": 203,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_WhiteSee"
+	},
+	{
+		"abr": "yurannaginata",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "YR_WP_Naginata"
+	},
+	{
+		"abr": "yuranoverfitknitornaments",
+		"price": 1833,
+		"category": "Yuran Apparel",
+		"defname": "YR_AP_Addon_knitwear"
+	},
+	{
+		"abr": "yuranrabbitstatue(crafting)",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "YR_ManekiUsagi_Craft"
+	},
+	{
+		"abr": "yuranrabbitstatue(goodharvest)",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "YR_ManekiUsagi_Plant"
+	},
+	{
+		"abr": "yuranrabbitstatue(immunity)",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "YR_ManekiUsagi_Immunity"
+	},
+	{
+		"abr": "yuranrabbitstatue(recovery)",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "YR_ManekiUsagi_Heal"
+	},
+	{
+		"abr": "yuranrabbitstatue(stable)",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "YR_ManekiUsagi_Stability"
+	},
+	{
+		"abr": "yuransewingmachine",
+		"price": 312,
+		"category": "Production",
+		"defname": "YR_P_sewingmachine"
+	},
 	],
-	"total": 1125
+	"total": 1264
 }

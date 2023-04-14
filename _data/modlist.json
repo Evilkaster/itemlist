@@ -132,12 +132,6 @@
     "version": null
   },
   {
-    "author": "moronic",
-    "name": "Arachne Race (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OdysseyLotus",
     "name": "[Alien/Race] Seren, from Stardust",
     "steamId": null,
@@ -342,12 +336,6 @@
     "version": "0.6.3.2421"
   },
   {
-    "author": "user19990313 and Trinity",
-    "name": "RuntimeGC [1.4]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Wolfcub05",
     "name": "Draftable Animals",
     "steamId": null,
@@ -394,6 +382,18 @@
     "name": "MoHAR framework",
     "steamId": "2057001924",
     "version": "1.0.8331.27653"
+  },
+  {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -454,5 +454,29 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Troopersmith1",
+    "name": "Rimeffect Races (Continued)",
+    "steamId": "2926557428",
+    "version": "1.4.2"
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
   }
 ]
