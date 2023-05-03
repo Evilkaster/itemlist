@@ -3736,7 +3736,8 @@
           "+40.0% Armor - Sharp",
           "+30.0% Armor - Blunt",
           "+40.0% Armor - Heat",
-          "+500% Injury healing factor"
+          "+500% Injury healing factor",
+          "+5 Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
